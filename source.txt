@@ -442,7 +442,8 @@ In particular, we begin by overriding the default behavior that prints room desc
 
 Since we're also changing the status bar, the player will never see the fact that we've labeled our location "Stage".]
 
-Procedural rule: ignore the room description heading rule.  Rule for printing the name of the Stage: do nothing.
+The room description heading rule does nothing.
+Rule for printing the name of the Stage: do nothing.
 
 Instead of looking for the first time:
 	if turn count is 1
