@@ -348,11 +348,13 @@ Instead of asking someone to try swearing mildly: try swearing mildly.
 Instead of swearing mildly:
 	say "[A random visible woman] giggles faintly."
 
-Understand "shit" or "fuck" or "damn" or "sod" as "[obscenity]". [* We have more or less preserved Inform's default understanding of obscenity, though testers tried a range of other interesting words.]
+Understand "shit", "fuck", "damn", "sod" as "[obscenity]". [* We have more or less preserved Inform's default understanding of obscenity, though testers tried a range of other interesting words.]
 
-Understand "swear" or "curse" or "mention obscenities" as swearing obscenely.
+Understand "swear", "curse", "mention obscenities" as swearing obscenely.
 
-Understand "bother" or "curses" or "drat" or "darn" as "[mild obscenity]".	
+Understand "bother", "curses", "drat", "darn" as "[mild obscenity]".
+
+
 Instead of swearing obscenely for the first time:
 	now the player is disgraced;
 	say "You squawk very loudly.
