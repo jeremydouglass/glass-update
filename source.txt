@@ -361,7 +361,12 @@ Instead of swearing obscenely for the first time:
 
 Lucinda's cheeks go pink."
 
-Swearing obscenely is speech. Swearing mildly is speech. Saying yes is speech. Saying no is speech. Saying sorry is speech.
+Swearing obscenely is an action applying to nothing.
+Swearing obscenely is speech.
+
+Swearing mildly is an action applying to nothing.
+Swearing mildly is speech.
+Saying yes is speech. Saying no is speech. Saying sorry is speech.
 
 Instead of asking someone to try doing something:
 	if asking someone to try speech, continue the action;
@@ -484,6 +489,7 @@ Instead of buying something: say "Commerce is beneath you."
 
 Instead of kissing someone: say "Alas, you have no lips."
 
+Singing is an action applying to nothing.
 Instead of singing: say "You're not one of those intolerable songbirds."
 
 Instead of listening: say "You keep your beak shut and attend to the conversation."
