@@ -6,7 +6,7 @@ Glass is a conversation-oriented fairy tale, taking place in one room. It was wr
 
 Features a variety of additional verbs, non-player characters with an agenda, and narrative with multiple endings." The story creation year is 2006.
 
-Release along with a solution, source text, a website, an interpreter, cover art, a file of "Walkthrough" called "solution.txt", a file of "Making of..." called "Overview.html".
+Release along with source text, a website, an interpreter, cover art, a file of "Walkthrough" called "solution.txt", a file of "Making of..." called "Overview.html".
 
 Use no scoring, the serial comma, and American dialect.
 
