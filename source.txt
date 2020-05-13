@@ -371,8 +371,8 @@ Instead of asking someone to try swearing obscenely: try swearing obscenely.
 	
 Instead of swearing obscenely:
 	say "'Right,' says the old lady. And she rings for a servant to remove you from the room.";
-	end the game saying "You are sold to pirates and have a glorious career on the open sea".
-	
+	end the story saying "You are sold to pirates and have a glorious career on the open sea".
+
 A person can be disgraced or approved. A person is usually approved.
 
 Bird trouble is a scene. Bird trouble begins when the player is disgraced. Bird trouble ends when time since bird trouble began is 2 minutes. When Bird trouble ends: now the player is approved.
@@ -964,7 +964,7 @@ The old lady's jaw clenches, and you see a hint of the steel in her. Her closene
 'Thank Providence for that,' he says, snatching up the glass slipper. 
 
 You watch him go, and think of the third daughter, waiting, in her bedroom, with the door locked.";
-	end the game saying "The Prince departs in anger"
+	end the story saying "The Prince departs in anger"
 
 When Lucinda Endgame ends in Lucinda Marriage: 
 	say "The Prince gives a great sigh and puts his head down on Lucinda's lap. 'I was sure I wouldn't find you,' he says. 'It seemed impossible.'
@@ -972,7 +972,7 @@ When Lucinda Endgame ends in Lucinda Marriage:
 She exchanges a glance, over his head, with the old lady.
 
 'You have me now,' she says, and puts her hand on the back of his neck. He does not ask, perhaps because he does not dare, why she did not explain herself sooner. And so they sit for a long moment, while Theodora slips out of the room, and the old lady rings for brandy...";
-	end the game saying "Lucinda and the Prince are married".
+	end the story saying "Lucinda and the Prince are married".
 
 Section 6 - Theodora Being Tried
 
@@ -1062,7 +1062,7 @@ The Prince looks at you for a long moment, then turns to the old lady; who shrug
 He snorts. 'I thank you, I do not want to find my bride here. I imagine everyone under this roof is tainted with a little of the same venom.'
 
 'That is the truth,' Lucinda murmurs; but he is already going, going, gone.";
-	end the game saying "The Prince departs in anger"
+	end the story saying "The Prince departs in anger"
  
 
 When Theodora Endgame ends in Theodora Marriage: 
@@ -1073,7 +1073,7 @@ She blinks at him, then says, 'I hope you are not angry.'
 He laughs, and touches her cheek; and she kisses him.
 
 Lucinda bites her lip. 'Well,' says the old lady briskly, standing. 'How many unexpected turns life brings to us.' And she pulls the bellpull with unnecessary force.";
-	end the game saying "Theodora and the Prince are married".
+	end the story saying "Theodora and the Prince are married".
 	
 Every turn when Theodora Endgame is happening and the time since Theodora Endgame began is 1 minute:
 	say "There is an odd silence, as though no one is sure what to do or say now. But it will break momentarily."
@@ -1122,7 +1122,7 @@ When Checking Cinderella ends in peace:
 The Prince's gaze lingers on Cinderella. She looks back at him, her chin tilted up. 'There are things my father need not know. Though I also would not lie to him about anything that I knew for certain.'
 
 'A commendable attitude,' says the old lady briskly. 'And now I am having a brandy. Would anyone else care for a nip?'";
-	end the game saying "Cinderella and the Prince are (eventually) wed".
+	end the story saying "Cinderella and the Prince are (eventually) wed".
 
 When Checking Cinderella ends in disaster: 
 	say "Cinderella puts it on, turning her ankle to watch the effect. The change sweeps up through her, making her taller, more perfect, almost inhumanly beautiful.
@@ -1142,7 +1142,7 @@ Cinderella backs away. 'I have no truck with devils,' she says. 'I was gifted or
 'But the law,' says the Prince.
 
 'You're an idiot,' says the old lady. 'You knew what you might find. If you loved her at all, you would not have come looking.'";
-	end the game saying "Cinderella is executed"
+	end the story saying "Cinderella is executed"
 
 Table of Cinderella Checking Remarks
 starting	final	comment
