@@ -1,0 +1,184 @@
+
+
+
+Glass
+A fractured fairy tale by Emily Short
+Release 1 / Serial number 200513 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+
+
+The Prince sits awkwardly on the couch, holding his glass slipper and trying to keep it from crushing. Lucinda and Theodora have the ends of the same couch, and they are taking turns seeing who can bend lowest and show off the most cleavage; while the old lady, in her wing chair, carries on about nonsense. For instance:
+
+"Do tell me about your father's health," she says, leaning toward the Prince. "Is he still ailing? Has the Spanish doctor been able to do anything for him?"
+
+The Prince looks uncomfortable: this line of reason leads directly to the problem of heirs. "I believe so, madam," he replies, with a bit of constraint.
+
+>T KING
+"Squaw-awk!" you say. "The king's health! The king's health!"
+
+The Prince glances your way and offers you a small, smiling salute.
+
+"It's so fortunate," says the old lady. "That you're of an age -- that is, that the King has been so blessed with an heir who can follow in his footsteps when the time comes, which we all hope will be--"
+
+Realizing she has led herself into a diplomatic difficulty, she sighs. "God has truly blessed our little kingdom."
+
+>T GOD
+"God!" you exclaim. All eyes turn slowly towards you.
+
+"Heavens," says the Prince mildly. "A pet with theological leanings. How unusual. You're most fortunate in your domesticated animals, madam."
+
+The old lady gives you a long, narrow-eyed look. Apparently she does not share the Prince's feelings on that topic.
+
+"Now I have heard a rumor," says the old lady, pretending that this conversation topic just now occurred to her, rather than being the object of her determined pursuit for the last half hour. "A rumor that you yourself were planning to wed, in the very near future."
+
+Theodora leans closer to the Prince, who tucks his hands more protectively around the slipper.
+
+"There are a great many rumors," he says.
+
+>T RUMORS
+"Awwk!" you say. "The marriage! The marriage!"
+
+"Don't mind our parrot," says the lady, smiling at the Prince. "It has very bad manners."
+
+The Prince glances at you. "I imagine any manners at all would be above average for a bird."
+
+Lucinda smirks.
+
+"It's true, you know, that my father threw the ball in the hope that I would-- that is, that it would lead to a greater acquaintance--" The Prince stops again, rattled, and glares down at the small shoe cradled in his hands. "I had not been very attentive to ladies in my youth."
+
+The old lady looks very strange at that remark. "Well-- my dear boy--" she begins. "I am glad you feel comfortable-- that is, I will not mention-- if you feel you prefer--"
+
+He blinks thick girlish lashes, and you see why she is worried. "No, I didn't mean that I have a preference for boys, madam," he remarks, more at his ease now that she is uncomfortable. "Only that I have been very much occupied with other concerns, and not..."
+
+He gestures. The shoe almost slips off its pillow. He catches it just in time.
+
+>Z
+You hold your peace.
+
+"I'm sure it's nothing surprising," remarks the old lady, "if you didn't meet anyone at the ball that you felt immediately you could marry. Such short acquaintances... there's much more to an alliance than that. One must feel at ease with the family, for instance."
+
+The Prince opens his mouth, then closes it again. "I did meet someone," he admits. "But I know nothing of her family. It hardly matters to me, however. It will be the woman who can wear this shoe." 
+
+The old woman laughs slightly. "How beautifully romantic! But -- she didn't give you her name?"
+
+The Prince shakes his head, looking embarrassed again.
+
+"...but you would recognize her, at least," the lady says, looking down carefully at her hands folded on her skirt. "As soon as you saw her face--"
+
+"I can't be sure," the Prince replies.
+
+There is a thick silence. The old lady frowns, suggesting very rapid and dangerous thought. Theodora lies back against the pillows, interested in the story and too stupid to realize it has to do with her. Lucinda-- but Lucinda's thoughts are always the hardest to read.
+
+>T BALL
+"Squawk!" you say. "The ball!"
+
+"It wasn't a masked ball," the old lady says. "It wasn't even badly lit. Your father did not stint on the candles at all."
+
+The Prince opens his mouth.
+
+"Oh, dear, dear, I am being odiously prying. I'm so sorry. Perhaps you met this young lady out on the terrace..." She trails off, suggesting the very faintest disapproval of young ladies who linger on terraces, out of sight of chaperones, to hold conversations with Princes, and never tell their names.
+
+"I met her in candlelight," says the Prince, goaded. "But she left me at midnight."
+
+The effect of this comment is like the shattering of glass: for a moment you wonder if he dropped the shoe...? No. It is merely that he has admitted, or near-as-admitted, that his chosen bride is one who appeared to him under a glamor, a magical enchantment. A crime punishable by death under his father's law.
+
+Everyone remains very very quiet.
+
+>T MAGIC
+"Awk!" you say. "Magic! Magic!"
+
+The Prince's eye goes to you. "Your bird, madam, is freakishly percipient. Positively unnatural."
+
+"Yes," she says. "Though I promise you it arrived in that condition and was not made so by anyone in this house." She sighs. "You are in a difficult situation," says the old lady. "You are too intelligent not to have considered the problem thoroughly, and all the risks involved in choosing someone under those circumstances."
+
+Lucinda's lips tighten. "Magic is abhorrent to God," she says.
+
+"That is certainly the opinion of some," the old lady agrees. "I myself wonder whether He would have encompassed in His creation any power which He considered wholly evil. But that is a private philosophy, and does not excuse a violation of the law." She glances at the Prince. "Forgive me: I stray from your problem."
+
+>Z
+You hold your peace.
+
+"I have considered the problem," says the Prince. "Very closely. I have not been able to sleep for considering it."
+
+"Do you know," asks the old lady, "why she...?"
+
+The Prince shakes his head. "Until she fled I had no hint that she was not simply as she appeared."
+
+"Extraordinarily beautiful, no doubt," remarks the old lady, with a hint of a curling smile; and Lucinda titters.
+
+"And kind, and wise," the Prince replies, refusing to be drawn. "Do you know whether magic can counterfeit those qualities as well?"
+
+"Wisdom rarely and kindness never at all," says the old lady.
+
+>X THEO
+Soft, round, in every sense yielding: she eats too many candied almonds herself, but never grudges sharing them. No character worth mentioning.
+
+"Maybe," Lucinda suggests, "she thought it would be wrong to deceive you about what she was, and chose this way to, to make it known."
+
+A spark of comprehension comes into Theo's eyes. "Yes," she says. "She might have thought that-- I mean, I can imagine..."
+
+The old lady glares at her. The Prince looks back and forth, confused.
+
+"I can start if you like," says Theo at last. "You can try it on me."
+
+>X OLD LADY
+She looks plucked: thin neck with folds of skin exposed, nose beaky, lips white. Perhaps when her fortunes are mended her cosmetics too will improve.
+
+The old lady slips her hands into the pockets of her skirt and leans back.
+
+>Z
+Outside on the street something rattles by.
+
+The Prince drops to kneel at Theo's feet. He looks dubiously at the shoe. "Do you happen to know whether this goes on the left foot, or the right one?" he asks. "It's very--"
+
+"You can try it on both," says Theodora. "If you want."
+
+He begins to slip it onto her left foot. It won't go, not at all. "That's certainly not it," he says, smiling at her quickly.
+
+She twitches her skirt, giving him -- you imagine, since you are at the wrong angle -- a passing view of quite a lot more than her ankles. He blinks once but does not allow himself comment.
+
+>LISTEN
+You keep your beak shut and attend to the conversation.
+
+"Right," he says. "Other foot now." He slides the shoe on, and it does go considerably further. "Tell me if I'm hurting you," he says.
+
+"You're not, not at all," Theo assures him on a wince.
+
+"Shoes are worn tight this year," puts in the old lady.
+
+>T POCKET
+"Awwwk!" you say. "The shoe! The shoe!"
+
+"Yes," says Lucinda to you. "You're very smart."
+
+The Prince stops his work with the shoe. "I can't -- this must not be --"
+
+"Oh, for pity's sake," says the old lady. "You haven't the least idea how women dress. Let me." And she kneels at Theodora's feet, shooing the Prince aside, and gives a firm tap to the heel of the shoe; at which point it slides on.
+
+"Bless me," she says.
+
+The Prince is silent for a moment, looking at the shoe. "It's you," he says. "It's you, Theodora! Why didn't you tell me?"
+
+The old lady turns away, tucking something into her pocket: something glassy and glinting.
+
+>G
+"Slipper!" you screech. "Wrong slipper! Wrong slipperslipper! In the pocket! Old lady!" It's the most complicated thing you've had to say in years, and your head aches by the time you're done.
+
+The Prince looks at you for a long moment, then turns to the old lady; who shrugs, as though to say that she knows the game is up. Fishing in her pocket she draws out the true slipper. "The other one is only a little larger," she says, handing the real one over. "Theodora's feet are quite dainty, on the whole."
+
+"You are a harridan," says the Prince. "A conniving, treacherous, beastly woman with no knowledge of love..."
+
+"You could still try the shoe on Lucinda," she suggests mildly.
+
+He snorts. "I thank you, I do not want to find my bride here. I imagine everyone under this roof is tainted with a little of the same venom."
+
+"That is the truth," Lucinda murmurs; but he is already going, going, gone.
+
+
+
+    *** The Prince departs in anger ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+> 
