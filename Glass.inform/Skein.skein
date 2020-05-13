@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1002">
+<Skein rootNode="node-1107">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1002">
+    <item nodeId="node-1107">
         <command xml:space="preserve">Glass</command>
         <result xml:space="preserve">
 
 
 Glass
 A fractured fairy tale by Emily Short
-Release 1 / Serial number 200512 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+Release 1 / Serial number 200513 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
 
 
@@ -20,6 +20,591 @@ The Prince sits awkwardly on the couch, holding his glass slipper and trying to 
 The Prince looks uncomfortable: this line of reason leads directly to the problem of heirs. "I believe so, madam," he replies, with a bit of constraint.
 
 &gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">T KING</command>
+        <result xml:space="preserve">"Squaw-awk!" you say. "The king's health! The king's health!"
+
+The Prince glances your way and offers you a small, smiling salute.
+
+"It's so fortunate," says the old lady. "That you're of an age -- that is, that the King has been so blessed with an heir who can follow in his footsteps when the time comes, which we all hope will be--"
+
+Realizing she has led herself into a diplomatic difficulty, she sighs. "God has truly blessed our little kingdom."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">T GOD</command>
+        <result xml:space="preserve">"God!" you exclaim. All eyes turn slowly towards you.
+
+"Heavens," says the Prince mildly. "A pet with theological leanings. How unusual. You're most fortunate in your domesticated animals, madam."
+
+The old lady gives you a long, narrow-eyed look. Apparently she does not share the Prince's feelings on that topic.
+
+"Now I have heard a rumor," says the old lady, pretending that this conversation topic just now occurred to her, rather than being the object of her determined pursuit for the last half hour. "A rumor that you yourself were planning to wed, in the very near future."
+
+Theodora leans closer to the Prince, who tucks his hands more protectively around the slipper.
+
+"There are a great many rumors," he says.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1110"></child>
+        </children>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">T RUMORS</command>
+        <result xml:space="preserve">"Awwk!" you say. "The marriage! The marriage!"
+
+"Don't mind our parrot," says the lady, smiling at the Prince. "It has very bad manners."
+
+The Prince glances at you. "I imagine any manners at all would be above average for a bird."
+
+Lucinda smirks.
+
+"It's true, you know, that my father threw the ball in the hope that I would-- that is, that it would lead to a greater acquaintance--" The Prince stops again, rattled, and glares down at the small shoe cradled in his hands. "I had not been very attentive to ladies in my youth."
+
+The old lady looks very strange at that remark. "Well-- my dear boy--" she begins. "I am glad you feel comfortable-- that is, I will not mention-- if you feel you prefer--"
+
+He blinks thick girlish lashes, and you see why she is worried. "No, I didn't mean that I have a preference for boys, madam," he remarks, more at his ease now that she is uncomfortable. "Only that I have been very much occupied with other concerns, and not..."
+
+He gestures. The shoe almost slips off its pillow. He catches it just in time.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You hold your peace.
+
+"I'm sure it's nothing surprising," remarks the old lady, "if you didn't meet anyone at the ball that you felt immediately you could marry. Such short acquaintances... there's much more to an alliance than that. One must feel at ease with the family, for instance."
+
+The Prince opens his mouth, then closes it again. "I did meet someone," he admits. "But I know nothing of her family. It hardly matters to me, however. It will be the woman who can wear this shoe." 
+
+The old woman laughs slightly. "How beautifully romantic! But -- she didn't give you her name?"
+
+The Prince shakes his head, looking embarrassed again.
+
+"...but you would recognize her, at least," the lady says, looking down carefully at her hands folded on her skirt. "As soon as you saw her face--"
+
+"I can't be sure," the Prince replies.
+
+There is a thick silence. The old lady frowns, suggesting very rapid and dangerous thought. Theodora lies back against the pillows, interested in the story and too stupid to realize it has to do with her. Lucinda-- but Lucinda's thoughts are always the hardest to read.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">T BALL</command>
+        <result xml:space="preserve">"Squawk!" you say. "The ball!"
+
+"It wasn't a masked ball," the old lady says. "It wasn't even badly lit. Your father did not stint on the candles at all."
+
+The Prince opens his mouth.
+
+"Oh, dear, dear, I am being odiously prying. I'm so sorry. Perhaps you met this young lady out on the terrace..." She trails off, suggesting the very faintest disapproval of young ladies who linger on terraces, out of sight of chaperones, to hold conversations with Princes, and never tell their names.
+
+"I met her in candlelight," says the Prince, goaded. "But she left me at midnight."
+
+The effect of this comment is like the shattering of glass: for a moment you wonder if he dropped the shoe...? No. It is merely that he has admitted, or near-as-admitted, that his chosen bride is one who appeared to him under a glamor, a magical enchantment. A crime punishable by death under his father's law.
+
+Everyone remains very very quiet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">T MAGIC</command>
+        <result xml:space="preserve">"Awk!" you say. "Magic! Magic!"
+
+The Prince's eye goes to you. "Your bird, madam, is freakishly percipient. Positively unnatural."
+
+"Yes," she says. "Though I promise you it arrived in that condition and was not made so by anyone in this house." She sighs. "You are in a difficult situation," says the old lady. "You are too intelligent not to have considered the problem thoroughly, and all the risks involved in choosing someone under those circumstances."
+
+Lucinda's lips tighten. "Magic is abhorrent to God," she says.
+
+"That is certainly the opinion of some," the old lady agrees. "I myself wonder whether He would have encompassed in His creation any power which He considered wholly evil. But that is a private philosophy, and does not excuse a violation of the law." She glances at the Prince. "Forgive me: I stray from your problem."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+            <child nodeId="node-1124"></child>
+            <child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You hold your peace.
+
+"I have considered the problem," says the Prince. "Very closely. I have not been able to sleep for considering it."
+
+"Do you know," asks the old lady, "why she...?"
+
+The Prince shakes his head. "Until she fled I had no hint that she was not simply as she appeared."
+
+"Extraordinarily beautiful, no doubt," remarks the old lady, with a hint of a curling smile; and Lucinda titters.
+
+"And kind, and wise," the Prince replies, refusing to be drawn. "Do you know whether magic can counterfeit those qualities as well?"
+
+"Wisdom rarely and kindness never at all," says the old lady.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">X THEO</command>
+        <result xml:space="preserve">Soft, round, in every sense yielding: she eats too many candied almonds herself, but never grudges sharing them. No character worth mentioning.
+
+"Maybe," Lucinda suggests, "she thought it would be wrong to deceive you about what she was, and chose this way to, to make it known."
+
+A spark of comprehension comes into Theo's eyes. "Yes," she says. "She might have thought that-- I mean, I can imagine..."
+
+The old lady glares at her. The Prince looks back and forth, confused.
+
+"I can start if you like," says Theo at last. "You can try it on me."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">X OLD LADY</command>
+        <result xml:space="preserve">She looks plucked: thin neck with folds of skin exposed, nose beaky, lips white. Perhaps when her fortunes are mended her cosmetics too will improve.
+
+The old lady slips her hands into the pockets of her skirt and leans back.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">Outside on the street something rattles by.
+
+The Prince drops to kneel at Theo's feet. He looks dubiously at the shoe. "Do you happen to know whether this goes on the left foot, or the right one?" he asks. "It's very--"
+
+"You can try it on both," says Theodora. "If you want."
+
+He begins to slip it onto her left foot. It won't go, not at all. "That's certainly not it," he says, smiling at her quickly.
+
+She twitches her skirt, giving him -- you imagine, since you are at the wrong angle -- a passing view of quite a lot more than her ankles. He blinks once but does not allow himself comment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">LISTEN</command>
+        <result xml:space="preserve">You keep your beak shut and attend to the conversation.
+
+"Right," he says. "Other foot now." He slides the shoe on, and it does go considerably further. "Tell me if I'm hurting you," he says.
+
+"You're not, not at all," Theo assures him on a wince.
+
+"Shoes are worn tight this year," puts in the old lady.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+            <child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You walk down to the other end of the perch.
+
+The Prince stops his work with the shoe. "I can't -- this must not be --"
+
+"Oh, for pity's sake," says the old lady. "You haven't the least idea how women dress. Let me." And she kneels at Theodora's feet, shooing the Prince aside, and gives a firm tap to the heel of the shoe; at which point it slides on.
+
+"Bless me," she says.
+
+The Prince is silent for a moment, looking at the shoe. "It's you," he says. "It's you, Theodora! Why didn't you tell me?"
+
+The old lady turns away, tucking something into her pocket: something glassy and glinting.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">X OLD LADY</command>
+        <result xml:space="preserve">She looks plucked: thin neck with folds of skin exposed, nose beaky, lips white. Perhaps when her fortunes are mended her cosmetics too will improve.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You do nothing. The old lady stares at you, and you stare back.
+
+There is an odd silence, as though no one is sure what to do or say now. But it will break momentarily.
+
+The Prince pulls Theodora toward him. "You are a woman of unexpected depths," he says softly. "All these years I have known you, seen you here and there, and thought that you were such a simple straightforward creature..."
+
+She blinks at him, then says, "I hope you are not angry."
+
+He laughs, and touches her cheek; and she kisses him.
+
+Lucinda bites her lip. "Well," says the old lady briskly, standing. "How many unexpected turns life brings to us." And she pulls the bellpull with unnecessary force.
+
+
+
+    *** Theodora and the Prince are married ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">T POCKET</command>
+        <result xml:space="preserve">"Awwwk!" you say. "The shoe! The shoe!"
+
+"Yes," says Lucinda to you. "You're very smart."
+
+The Prince stops his work with the shoe. "I can't -- this must not be --"
+
+"Oh, for pity's sake," says the old lady. "You haven't the least idea how women dress. Let me." And she kneels at Theodora's feet, shooing the Prince aside, and gives a firm tap to the heel of the shoe; at which point it slides on.
+
+"Bless me," she says.
+
+The Prince is silent for a moment, looking at the shoe. "It's you," he says. "It's you, Theodora! Why didn't you tell me?"
+
+The old lady turns away, tucking something into her pocket: something glassy and glinting.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">G</command>
+        <result xml:space="preserve">"Slipper!" you screech. "Wrong slipper! Wrong slipperslipper! In the pocket! Old lady!" It's the most complicated thing you've had to say in years, and your head aches by the time you're done.
+
+The Prince looks at you for a long moment, then turns to the old lady; who shrugs, as though to say that she knows the game is up. Fishing in her pocket she draws out the true slipper. "The other one is only a little larger," she says, handing the real one over. "Theodora's feet are quite dainty, on the whole."
+
+"You are a harridan," says the Prince. "A conniving, treacherous, beastly woman with no knowledge of love..."
+
+"You could still try the shoe on Lucinda," she suggests mildly.
+
+He snorts. "I thank you, I do not want to find my bride here. I imagine everyone under this roof is tainted with a little of the same venom."
+
+"That is the truth," Lucinda murmurs; but he is already going, going, gone.
+
+
+
+    *** The Prince departs in anger ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">T LUCINDA</command>
+        <result xml:space="preserve">"Squaw-awk!" you say. "Lucinda!"
+
+"Might as well start there as anywhere," says the Prince, shrugging. "Miss Lucinda, would you mind trying the slipper? You needn't -- that is, please do not regard this in the nature of a royal request, if you would rather not."
+
+The old lady catches Lucinda's eye, and jerks her head slightly: a command.
+
+"It would be a pleasure," Lucinda says, though her eyes cloud a little as the Prince kneels at her feet and begins to untie the laces of her boot. Theodora watches the proceedings curiously. 
+
+The old lady folds her hands in her lap.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You hold your peace.
+
+The Prince tugs at the bootlaces. "I do apologize," he says breathlessly. "I'm afraid I am not used to undoing ladies" shoes."
+
+"It is quite all right," says Lucinda, warming slightly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You walk down to the other end of the perch.
+
+The Prince removes the boot and sets it aside. "There," he says, smiling up into Lucinda's face. "You have the dubious honor of being first, you see. By the time I have checked the five-hundredth maiden I will be quite proficient at this."
+
+She chuckles. "Let us hope you are not put to so much trouble."
+
+They both seem to become aware at the same moment that he is clasping her ankle in an unseemly fashion. He lets go.
+
+The old lady looks like a cat.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">X LUCINDA</command>
+        <result xml:space="preserve">More compact than Theodora, and with more self-control.
+
+The Prince picks up the shoe and holds it up, and Lucinda slides her stockinged foot in easily.
+
+The Prince stares at the shoe. Then he looks up. "You?" he repeats. "I mean -- you seemed -- I thought for certain that you weren't -- the way you -- I thought you would be good practice because--"
+
+Lucinda smiles, a strange, sad smile. "My love," she whispers.
+
+Something is wrong. Lucinda's hand is clenched, her nails digging into the pillow where only you can see. You smell blood.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+            <child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">X BLOOD</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You hold your peace. A smile grows across the old lady's face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You hold your peace. A smile grows across the old lady's face.
+
+The Prince gives a great sigh and puts his head down on Lucinda's lap. "I was sure I wouldn't find you," he says. "It seemed impossible."
+
+She exchanges a glance, over his head, with the old lady.
+
+"You have me now," she says, and puts her hand on the back of his neck. He does not ask, perhaps because he does not dare, why she did not explain herself sooner. And so they sit for a long moment, while Theodora slips out of the room, and the old lady rings for brandy...
+
+
+
+    *** Lucinda and the Prince are married ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">T BLOOD</command>
+        <result xml:space="preserve">"Blood!" you shriek. "Blood, blood, blood!"
+
+The Prince stiffens. He puts his hand to the back of Lucinda's ankle, and draws it away again. "Mother of God," he says. He passes a hand over his lips, looking as though he is going to vomit; stands up in one abrupt movement. Lucinda's eyes follow him but she does not even try to stand.
+
+"What did you hope to gain?" he asks, turning back. "Don't you think I would have realized sooner or later?"
+
+"But you might have realized too late," Lucinda says, closing her eyes, pallid. "I think, knowing you, you would not repudiate a woman after you had made her your wife in the eyes of God and Church."
+
+He looks down.
+
+"It was worth a try," Lucinda says.
+
+"You want to be Queen so badly?" he demands. "What possible--"
+
+"Calm yourself," says the old lady, rising. "Don't torture her. Lucinda wants nothing but a convent and a narrow bed. She's a simple girl and her ambitions are simple. But she does also know her duty, when it is spoken to her plainly by her mother."
+
+"I don't understand why," says the Prince. "I thought you friends."
+
+The old lady's jaw clenches, and you see a hint of the steel in her. Her closeness to the royal household has been life's blood to her these twenty years, and now she sees it end; she could explain, but does not choose that particular betrayal. "Check the rest of your maidens," she says. "Good luck finding your bride. You will not discover her in this house."
+
+"Thank Providence for that," he says, snatching up the glass slipper.
+
+You watch him go, and think of the third daughter, waiting, in her bedroom, with the door locked.
+
+
+
+    *** The Prince departs in anger ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">T CINDERELLA</command>
+        <result xml:space="preserve">"Awwwk!" you say. "Cinderella!"
+
+There is the crack of a summoning: and there she stands, in the doorway, the secret daughter, the enchantress.
+
+"May I present my third daughter," says the old lady, very dryly.
+
+The Prince fumbles to his feet.
+
+"Do you recognize her?" the old lady asks.
+
+"I-- we've never met," says the Prince, looking puzzled. "I would have thought, as long as I have known your family, I would have--"
+
+"She likes to keep to herself. Except, of course, when she surprises us all, and goes out. Come in, Cinderella," says the lady. Lucinda squirms on the sofa.
+
+And in she walks, looking a little as though she has just been woken. The color rises in her cheeks when she looks at the Prince.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+            <child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">X CINDERELLA</command>
+        <result xml:space="preserve">She has a curious pointed chin, and a mouth that is too narrow, but there is a captivating quality about her as well.
+
+There is a long thoughtful silence. The Prince frowns at Cinderella. "I don't recall seeing you at the ball."
+
+"No?" she asks, with that funny triangular smile of hers. "We were introduced. Perhaps I did not make an impression."
+
+He frowns, and you can see that he is considering asking her to try the shoe. The silence is sharp. But he realizes -- or does he? -- that her face is wrong.
+
+She waits.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">Z</command>
+        <result xml:space="preserve">You hold your peace.
+
+"Would you mind trying this shoe?" the Prince asks, quite politely. 
+
+She nods, and takes the glass slipper from his hand.
+
+"Don't," says the old lady, reaching for her wrist; missing. "They can't-- without proof they won't..."
+
+Cinderella puts it on, turning her ankle to watch the effect. The change sweeps up through her, making her taller, more perfect, almost inhumanly beautiful.
+
+The Prince drops his hand.
+
+"You need not have done that," he says. "You could have broken it. Lied to me. Remained hidden." His jaw works. "Didn't you understand that--"
+
+"She understands," says the old lady, rising from her chair. "I told her. We all told her. She hoped that you would understand her secret but have the wit not to put her to the test." Her fingers dig into the chairback. "I'm afraid the rest of us -- not being in love with you, you see -- we had less faith in your intuition. We thought perhaps we might distract you with one of the other two. One of the plainly... non-magical ones."
+
+The Prince swallows. He is crying: not very man-like. "You see I cannot conceal this; it would be treason, now I have seen this witchcraft with my own eyes..."
+
+Cinderella backs away. "I have no truck with devils," she says. "I was gifted or cursed in my nature, that is all. I cannot make it go away -- the power remains with me."
+
+"It's true," says Lucinda. "We poured holy water on her every day for a year."
+
+"But the law," says the Prince.
+
+"You're an idiot," says the old lady. "You knew what you might find. If you loved her at all, you would not have come looking."
+
+
+
+    *** Cinderella is executed ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">T BALL</command>
+        <result xml:space="preserve">"Awwk!" you say. "The ball! The ball!"
+
+The Prince frowns at Cinderella. "I don't recall seeing you at the ball."
+
+"No?" she asks, with that funny triangular smile of hers. "We were introduced. Perhaps I did not make an impression."
+
+He frowns, and you can see that he is considering asking her to try the shoe. The silence is sharp. But he realizes -- or does he? -- that her face is wrong.
+
+She waits.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">T FACE</command>
+        <result xml:space="preserve">"Awwk!" you say. "The marriage!"
+
+"I held the ball to look for someone to-- someone that I might marry," the Prince explains to Cinderella.
+
+"I went looking for the same thing," she says, tilting her head, the way you would. "And did you find what you were looking for?"
+
+"I am not sure," he says. "Did you?"
+
+"He has not told me yet," Cinderella answers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">T LOVE</command>
+        <result xml:space="preserve">"Squawk!" you say. "Love!"
+
+The Prince and Cinderella both look up at you. Cinderella puts one little finger to her lips, and winks, but you are afraid.
+
+"I met someone at the ball," he says, after a minute. "I felt for her. I thought to recognize her again by her shoe."
+
+Cinderella tilts her head and looks at the shoe. "If that is the only way you can identify her, I think you are better off avoiding such a wife, hm?"
+
+The Prince frowns at Cinderella a little longer, then seems to reach some decision.
+
+"This business of the shoe is nonsense," he remarks. "I've no business to be choosing a wife so arbitrarily."
+
+"And all your heirs would have such small feet," Theodora contributes.
+
+"Yes, that would be-- terrible," the Prince says. "In fact, I think--" He turns and hurls the slipper against the wall, where it splinters into dozens of sparkling pieces. There is a great sigh in the room, and the old lady actually laughs.
+
+The Prince's gaze lingers on Cinderella. She looks back at him, her chin tilted up. "There are things my father need not know. Though I also would not lie to him about anything that I knew for certain."
+
+"A commendable attitude," says the old lady briskly. "And now I am having a brandy. Would anyone else care for a nip?"
+
+
+
+    *** Cinderella and the Prince are (eventually) wed ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?
+&gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
 </Skein>

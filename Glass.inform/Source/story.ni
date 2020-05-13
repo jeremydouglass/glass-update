@@ -1224,3 +1224,19 @@ Carry out asking for credits:
 	say "Inform 7 is the work of Graham Nelson, and [story title] was compiled using Andrew Hunter's compiler for Mac OS X.
 
 Sam Kabo Ashwell, Dan Shiovitz, and A. Short offered beta-testing feedback."
+
+
+Chapter 7 - Testing - Not for release
+
+[These tests were transcribed from solutions.txt.
+ Use a test on the first move by typing, for example:
+   TEST T32
+ They will work the Inform editor environment,
+ but are not included in the released version.]
+
+Test t1 with "T KING / T GOD / T RUMORS / Z / T BALL / T MAGIC / T LUCINDA / Z / Z / X LUCINDA / T BLOOD".
+Test t11 with "T KING / T GOD / T RUMORS / Z / T BALL / T MAGIC / T LUCINDA / Z / Z / X LUCINDA / X BLOOD / Z / Z".
+Test t21 with "T KING / T GOD / T RUMORS / Z / T BALL / T MAGIC / Z / X THEO / X OLD LADY / Z / LISTEN / T POCKET / G".
+Test t22 with "T KING / T GOD / T RUMORS / Z / T BALL / T MAGIC / Z / X THEO / X OLD LADY / Z / LISTEN / Z / X OLD LADY / Z".
+Test t31 with "T KING / T GOD / T RUMORS / Z / T BALL / T MAGIC / T CINDERELLA / T BALL / T FACE / T LOVE".
+Test t32 with "T KING / T GOD / T RUMORS / Z / T BALL / T MAGIC / T CINDERELLA / X CINDERELLA / Z".
