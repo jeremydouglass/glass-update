@@ -113,10 +113,10 @@ Every turn when the old lady is active:
 		if pause is not "blank", 
 			relate the current subject with the segue, pausing first;
 		otherwise relate the current subject with the segue, directly;
-		change last subject to current subject;
-		change current subject to segue;
+		now the last subject is the current subject;
+		now the current subject is the segue;
 	otherwise; 
-		change the current subject to last subject;
+		now the current subject is the last subject;
 		if Fitting has happened
 		begin;
 			make no decision;
@@ -235,8 +235,8 @@ Carry out mentioning:
 Report mentioning:
 	now the old lady is passive;
 	relate the current subject with the noun, directly;
-		change last subject to current subject;
-	change the current subject to the noun.
+		now the last subject is the current subject;
+	now the current subject is the noun.
 	
 [We can also override this behavior by giving constant responses to specific remarks:]
 
@@ -623,8 +623,8 @@ Section 1 - Scene Aesthetics
 Current action is some text that varies. The current action is "Idly".
 
 When play begins:
-	change the left hand status line to "[current action] discussing [the current subject]";
-	change the right hand status line to " ";
+	now the left hand status line is "[current action] discussing [the current subject]";
+	now the right hand status line is " ";
 
 Section 2 - Prologue
 [...In which we lead up to the subject of the Prince's having fallen in love.
@@ -732,7 +732,7 @@ There is a thick silence. The old lady frowns, suggesting very rapid and dangero
 Section 3 - About the Ball
 [In which we work toward the discovery that the beloved is -- or was -- under a spell.]
 
-Wondering is a scene. Wondering begins when Prologue ends. When Wondering begins: change conversation set to Table of Wondering Remarks; change the target subject to ball; change the current action to "Curiously".
+Wondering is a scene. Wondering begins when Prologue ends. When Wondering begins: now the conversation set is the Table of Wondering Remarks; now the target subject is ball; now the current action is "Curiously".
 
 Table of Wondering Remarks
 starting	final	comment 
@@ -796,7 +796,7 @@ Wondering ends when the current subject is the ball.
 Section 4 - Fitting
 [In which we work towards the idea that someone here should try the shoe (and for lack of a better idea, we will assume that person is Theo.)]
 
-Fitting is a scene. Fitting begins when Wondering ends. When Fitting begins: change conversation set to Table of Fitting Remarks; change the target subject to Theo; now marriage suggests Theo; change the current action to "Nervously".
+Fitting is a scene. Fitting begins when Wondering ends. When Fitting begins: now the conversation set is the Table of Fitting Remarks; now the target subject is Theo; now marriage suggests Theo; now the current action is "Nervously".
 
 Table of Fitting Remarks
 starting	final	comment 
@@ -882,8 +882,8 @@ Section 5 - Lucinda Being Tried
 Checking Lucinda is a scene. 
 
 Checking Lucinda begins when Prince unties boots. Fitting ends when Checking Lucinda begins. When Checking Lucinda begins: 
-		change left hand status line to "Trying the slipper on Lucinda";
-		change last subject to current subject; change the current subject to Lucinda; change the target subject to Lucinda; change the conversation set to Table of Lucinda Checking Remarks.
+		now the left hand status line is "Trying the slipper on Lucinda";
+		now the last subject is the current subject; now the current subject is Lucinda; now the target subject is Lucinda; now the conversation set is the Table of Lucinda Checking Remarks.
 
 Every turn during Checking Lucinda:
 	repeat through Table of Lucinda Checks
@@ -979,8 +979,8 @@ Section 6 - Theodora Being Tried
 Checking Theodora is a scene. 
 
 Checking Theodora begins when Prince unties Theo boots. Fitting ends when Checking Theodora begins. When Checking Theodora begins:
-		change left hand status line to "Trying the slipper on Theodora";
-		change last subject to current subject; change the current subject to Theo; change the target subject to Theo; change the conversation set to Table of Theodora Checking Remarks.
+		now the left hand status line is "Trying the slipper on Theodora";
+		now the last subject is the current subject; now the current subject is Theo; now the target subject is Theo; now the conversation set is the Table of Theodora Checking Remarks.
 
 Every turn during Checking Theodora:
 	repeat through Table of Theodora Checks
@@ -1090,7 +1090,7 @@ Section 7 - Cinderella Being Tried
 Checking Cinderella is a scene. Cindy is a woman. The description of Cindy is "She has a curious pointed chin, and a mouth that is too narrow, but there is a captivating quality about her as well.". Understand "Cinderella" or "cinders" as Cindy. Fitting ends when Checking Cinderella begins. 
 
 Checking Cinderella begins when Cinderella gets mentioned. When Checking Cinderella begins:
-	change last subject to current subject; change the current subject to Cinderella; change the target subject to magic; change the conversation set to Table of Cinderella Checking Remarks;
+	now the last subject is the current subject; now the current subject is Cinderella; now the target subject is magic; now the conversation set is the Table of Cinderella Checking Remarks;
 	move Cindy to location;
 	say "There is the crack of a summoning: and there she stands, in the doorway, the secret daughter, the enchantress.
 	
