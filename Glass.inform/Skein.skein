@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Glass</command>
+        <result xml:space="preserve">
+
+
+Glass
+A fractured fairy tale by Emily Short
+Release 1 / Serial number 200512 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+
+
+The Prince sits awkwardly on the couch, holding his glass slipper and trying to keep it from crushing. Lucinda and Theodora have the ends of the same couch, and they are taking turns seeing who can bend lowest and show off the most cleavage; while the old lady, in her wing chair, carries on about nonsense. For instance:
+
+"Do tell me about your father's health," she says, leaning toward the Prince. "Is he still ailing? Has the Spanish doctor been able to do anything for him?"
+
+The Prince looks uncomfortable: this line of reason leads directly to the problem of heirs. "I believe so, madam," he replies, with a bit of constraint.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
